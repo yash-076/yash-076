@@ -1,42 +1,98 @@
 <h1 align="center">Hi, I'm Yash Rastogi 👋</h1>
-<h3 align="center">Software Developer | Building Scalable & User-Focused Solutions</h3>
+<h3 align="center">Software Developer | Real-Time Systems | Full-Stack Engineer</h3>
+<p align="center">
+  <strong>Email:</strong> smediayash@gmail.com • 
+  <strong>Phone:</strong> +91 7456030367  
+</p>
 
-## 🚀 About Me
-I'm a passionate **Software Developer** who loves building clean, scalable, and efficient web applications.  
-My work focuses on **JavaScript, React, Node.js, Python**, and **modern UI/UX** principles.
+---
 
-I enjoy solving real problems, experimenting with new technologies, and crafting seamless user experiences.
+## 🚀 Overview  
+Motivated **Software Engineering student** with hands-on experience in **full-stack development**, **real-time applications**, and **user-centered design**.  
 
+Skilled in building:
+- ⚡ Responsive & clean user interfaces  
+- ⚡ REST API & WebSocket-based backends  
+- ⚡ Scalable, intuitive, high-performance applications  
 
-## 🛠️ Tech Stack
+Strong foundation in **C/C++, JavaScript, Python, OOP**, and modern software development practices.  
+Known for **attention to detail**, **collaboration**, and delivering user-focused, maintainable solutions.
+
+---
+
+## 🛠️ Technical Skills  
+
+### **Languages**
+Python • C++ • C • JavaScript • HTML • CSS  
 
 ### **Frontend**
-- React.js • JavaScript (ES6+) • HTML • CSS • TailwindCSS  
-- Three.js (3D Web Experiences)
+React • TailwindCSS • Responsive Design • UI/UX Basics  
 
 ### **Backend**
-- Node.js • Express.js  
-- Python (APIs, scripting)
+FastAPI • REST APIs • WebSockets • Node.js/Express.js (for chat app)  
 
 ### **Databases**
-- MongoDB • PostgreSQL • MySQL
+MongoDB  
 
-### **Tools & DevOps**
-- Git • GitHub • VS Code  
-- Postman • Docker (learning)
+### **Tools & Platforms**
+Git • GitHub • VS Code • Postman • Linux • Windows • MS Excel • PowerPoint  
 
+### **Software Engineering Concepts**
+OOP • SDLC • User-Centered Design  
 
-## 📌 Featured Projects
+### **Networking & Other Skills**
+Basic Networking • API Communication • Documentation & Technical Writing  
 
-### 🔹 **3D Portfolio Website**  
-A modern, interactive 3D developer portfolio built with **React + Three.js**.
+### **Data Structures & Algorithms**
+- Solved **900+ DSA problems** (LeetCode, CodeForces, GFG)  
+- Experienced with **C++ STL**, competitive-style problem solving  
+- Focus on writing optimized, clean solutions  
 
-### 🔹 **Real-Time Dashboard**  
-A web dashboard built using **React + WebSockets** for live updates and analytics.
+---
 
-### 🔹 **Full-Stack Task Manager App**  
-Authentication, CRUD operations, filters, clean UI — built with **MERN Stack**.
+## 📌 Projects  
 
+### 🔹 **SecuWatch v1.1 — Real-Time Log Analyzer & Alerting Tool**  
+**Tech:** FastAPI, React, WebSockets, Python, TailwindCSS  
+**Live Project | GitHub**
+
+- Built a full-stack **real-time dashboard** for log analysis and alert visualization.  
+- Designed a modular **FastAPI backend** with event streaming & log-processing pipeline.  
+- Developed a responsive React UI with **filters, charts, search**, and clean layouts.  
+- Applied UI/UX principles to enhance **clarity, workflow efficiency, and performance**.
+
+---
+
+### 🔹 **Real-Time Chat Application (Pulse)**  
+**Tech:** MongoDB, Express.js, React, Node.js (MERN), WebSockets, TailwindCSS  
+**Live Project | GitHub**
+
+- Developed a real-time **instant messaging** system using WebSockets.  
+- Designed a clean, accessible, mobile-friendly chat UI with message indicators.  
+- Implemented scalable Node.js backend ensuring **low-latency delivery**.  
+- Enhanced usability through **intuitive components, validation, and error handling**.
+
+---
+
+## 🎓 Education  
+**Bachelor of Technology — Information Technology**  
+Harcourt Butler Technical University, Kanpur  
+**Sep 2023 – Jun 2027**  
+CGPA: **8.4 / 10** (Currently in 3rd Year)
+
+---
+
+## 🤝 Soft Skills  
+Collaboration • Problem Solving • Debugging • User-Focused Development  
+Documentation • Time Management • Project Ownership • Growth Mindset  
+
+---
+
+## 🏆 Achievements  
+- 🥈 **Second Consolation Prize — University Hackathon**  
+- 🏅 **Internal SIH Winner** (Selected for institute-level Smart India Hackathon round)  
+
+---
 
 ## 📊 GitHub Analytics  
 <p align="center">
@@ -44,11 +100,7 @@ Authentication, CRUD operations, filters, clean UI — built with **MERN Stack**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact" height="180" />
 </p>
 
-  
-## 🤝 Connect With Me  
-- Portfolio: https://portfolio-website-seven-plum-26.vercel.app/ 
-- LinkedIn: www.linkedin.com/in/yashrastogi11 
-- Email: **smediayash@gmail.com**
+---
 
+<h3 align="center">✨ Building scalable systems. Designing seamless experiences. Growing every day. ✨</h3>
 
-<h3 align="center">✨ Always learning. Always building. Always improving. ✨</h3>
