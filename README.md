@@ -9,26 +9,19 @@ I focus on writing maintainable code, solving problems efficiently, and continuo
 
 ## 🛠️ Skills & Technologies
 
-### **Languages**
-Python • C++ • JavaScript • C • HTML • CSS  
+### **Languages**: Python • C++ • JavaScript • C • HTML • CSS  
 
-### **Frontend**
-React • TailwindCSS • Responsive UI • Basic UI/UX Principles  
+### **Frontend**: React • TailwindCSS • Responsive UI • Basic UI/UX Principles  
 
-### **Backend**
-FastAPI • Node.js • Express.js • REST APIs • WebSockets  
+### **Backend**: FastAPI • Node.js • Express.js • REST APIs • WebSockets  
 
-### **Database**
-MongoDB  
+### **Database**: MongoDB  
 
-### **Tools**
-Git • GitHub • VS Code • Postman • Linux • Windows  
+### **Tools**: Git • GitHub • VS Code • Postman • Linux • Windows  
 
-### **Core CS**
-OOP • SDLC • Networking Basics • API Communication  
+### **Core CS**: OOP • SDLC • Networking Basics • API Communication  
 
-### **DSA**
-Solved **900+ problems** on LeetCode, CodeForces & GFG using C++ STL.
+### **DSA**: Solved **900+ problems** on LeetCode, CodeForces & GFG using C++ STL.
 
 
 ## 📌 Projects
