@@ -51,5 +51,9 @@ Solved **900+ problems** on LeetCode, CodeForces & GFG using C++ STL.
 - Interactive 3D-based personal portfolio  
 - Smooth animations & clean UI design  
 
+## 🤝 Connect With Me  
+- Portfolio: https://portfolio-website-seven-plum-26.vercel.app/ 
+- LinkedIn: www.linkedin.com/in/yashrastogi11 
+- Email: **smediayash@gmail.com**
 
 <h3 align="center">✨ I love building things that are fast, intuitive, and user-friendly. ✨</h3>
