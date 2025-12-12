@@ -1,13 +1,12 @@
+<h1 align="center">Hi, I'm Yash Rastogi 👋</h1>
+<h3 align="center">Software Developer | Building Scalable & User-Focused Solutions</h3>
 
-<!--**yash-076/yash-076** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
---->
 ## 🚀 About Me
 I'm a passionate **Software Developer** who loves building clean, scalable, and efficient web applications.  
 My work focuses on **JavaScript, React, Node.js, Python**, and **modern UI/UX** principles.
 
 I enjoy solving real problems, experimenting with new technologies, and crafting seamless user experiences.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +25,6 @@ I enjoy solving real problems, experimenting with new technologies, and crafting
 - Git • GitHub • VS Code  
 - Postman • Docker (learning)
 
----
 
 ## 📌 Featured Projects
 
@@ -39,7 +37,6 @@ A web dashboard built using **React + WebSockets** for live updates and analytic
 ### 🔹 **Full-Stack Task Manager App**  
 Authentication, CRUD operations, filters, clean UI — built with **MERN Stack**.
 
----
 
 ## 📊 GitHub Analytics  
 <p align="center">
@@ -47,13 +44,11 @@ Authentication, CRUD operations, filters, clean UI — built with **MERN Stack**
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashrastogi&layout=compact" height="180" />
 </p>
 
----
-
+  
 ## 🤝 Connect With Me  
 - Portfolio: https://portfolio-website-seven-plum-26.vercel.app/ 
 - LinkedIn: www.linkedin.com/in/yashrastogi11 
 - Email: **smediayash@gmail.com**
 
----
 
 <h3 align="center">✨ Always learning. Always building. Always improving. ✨</h3>
