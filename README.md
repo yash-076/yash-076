@@ -28,7 +28,7 @@ Git • GitHub • VS Code • Postman • Linux • Windows
 OOP • SDLC • Networking Basics • API Communication  
 
 ### **DSA**
-Solved **900+ problems** on LeetCode, CodeForces & GFG using C++ STL.
+Solved **1000+ problems** on LeetCode, CodeForces & GFG using C++ STL.
 
 ## 📌 Projects
 
