@@ -106,14 +106,20 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yash-076&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash-076&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="175" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-076&theme=tokyonight" height="165" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-076&theme=tokyonight" height="165" alt="Top Languages" />
 </div>
 
 <br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yash-076&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=yash-076&theme=tokyonight&hide_border=true" height="150" alt="Streak Stats" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yash-076&theme=tokyo-night&height=300" width="95%" alt="Activity Graph" />
 </div>
 
 ---
