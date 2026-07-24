@@ -21,7 +21,6 @@ const developer = {
   university: "Harcourt Butler Technical University (HBTU), Kanpur",
   degree: "B.Tech in Information Technology (2023 - 2027)",
   cgpa: "8.65 / 10",
-  currentRole: "Software Engineering Intern @ AltissAdvance Tech",
   focusAreas: [
     "Backend Engineering & System Architecture",
     "Distributed Systems & Event-Driven Pipelines (Kafka, Redis)",
@@ -33,16 +32,6 @@ const developer = {
 ```
 
 I am an **Information Technology student** at **HBTU Kanpur** with a deep interest in backend engineering, distributed systems, and real-time security platforms. I focus on building scalable software—from event-driven log streaming platforms with **Apache Kafka** & **WebSockets** to high-concurrency services in **Go** and **FastAPI**.
-
----
-
-### 💼 Experience
-
-#### 💻 Software Engineering Intern — **AltissAdvance Tech Pvt. Ltd.** *(Axentra OS)*
-*May 2026 – Present* | `Python` `FastAPI` `PostgreSQL` `MySQL` `REST APIs` `Postman`
-- Engineered RESTful backend APIs for tracking and analytics services within Axentra OS.
-- Implemented data storage, querying, and retrieval using **PostgreSQL** and **MySQL**.
-- Debugged, validated, and optimized backend endpoints to ensure reliability under peak load.
 
 ---
 
