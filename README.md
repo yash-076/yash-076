@@ -13,7 +13,7 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 ```javascript
 const developer = {
@@ -31,21 +31,21 @@ const developer = {
 };
 ```
 
-I am an **Information Technology student** at **HBTU Kanpur** with a deep interest in backend engineering, distributed systems, and real-time security platforms. I focus on building scalable software—from event-driven log streaming platforms with **Apache Kafka** & **WebSockets** to high-concurrency services in **Go** and **FastAPI**.
+I am an **Information Technology student** at **HBTU Kanpur** with a deep interest in backend engineering, distributed systems, and real-time security platforms. I focus on building scalable software-from event-driven log streaming platforms with **Apache Kafka** & **WebSockets** to high-concurrency services in **Go** and **FastAPI**.
 
 ---
 
-### 🏆 Key Achievements & Milestones
+### Key Achievements & Milestones
 
-- 🌟 **LeetCode Knight (Rating 1880+)**: Solved **1400+ problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks. Achieved a global contest rank of **1,761 / 39,000+**.
-- 🏆 **IICPC 2026 Prelims**: Secured **AIR 2375** out of 13,000+ participants nationwide.
-- ⚡ **Flipkart GridLock 2.0**: Qualified for **Round 2** out of 109K+ submissions and 10K+ teams.
-- 🎓 **Reliance Foundation Scholar**: Selected among top 5,000 students nationwide from a competitive all-India pool.
-- 🎯 **JEE Advanced 2023**: AIR 17,423 | **JEE Main 2023**: AIR 27,318 (Top 2.4% out of 1.4M+ candidates).
+- **LeetCode Knight (Rating 1880+)**: Solved **1400+ problems** across LeetCode, Codeforces, CodeChef, and GeeksforGeeks. Achieved a global contest rank of **1,761 / 39,000+**.
+- **IICPC 2026 Prelims**: Secured **AIR 2375** out of 13,000+ participants nationwide.
+- **Flipkart GridLock 2.0**: Qualified for **Round 2** out of 109K+ submissions and 10K+ teams.
+- **Reliance Foundation Scholar**: Selected among top 5,000 students nationwide from a competitive all-India pool.
+- **JEE Advanced 2023**: AIR 17,423 | **JEE Main 2023**: AIR 27,318 (Top 2.4% out of 1.4M+ candidates).
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 | Category | Technologies & Tools |
 | :--- | :--- |
@@ -58,41 +58,41 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 🛡️ [SecuWatch 2.0](https://github.com/yash-076/SecuWatch2.0) — *Real-Time SOC Dashboard & SIEM Pipeline*
+#### [SecuWatch 2.0](https://github.com/yash-076/SecuWatch2.0) — *Real-Time SOC Dashboard & SIEM Pipeline*
 `FastAPI` `React.js` `PostgreSQL` `Apache Kafka` `Redis` `WebSockets` `JWT` `Tailwind CSS`
 - Multi-tenant Security Operations Center (SIEM) dashboard for real-time log ingestion and incident monitoring.
 - Built an event-driven architecture using **Apache Kafka** to decouple ingestion, **Redis Pub/Sub** for routing, and **WebSockets** for live alert streaming.
 - Features alert deduplication, AI-powered threat explanations, and RBAC.
-- 🔗 [Live Demo](https://secuwatch-dashboard.vercel.app/) | [Source Code](https://github.com/yash-076/SecuWatch2.0)
+- [Live Demo](https://secuwatch-dashboard.vercel.app/) | [Source Code](https://github.com/yash-076/SecuWatch2.0)
 
-#### 🎯 [RoleSync](https://github.com/yash-076/job-aggregator) — *Job Aggregation & Resume Matching Engine*
+#### [RoleSync](https://github.com/yash-076/job-aggregator) — *Job Aggregation & Resume Matching Engine*
 `FastAPI` `React.js` `PostgreSQL` `Redis` `APScheduler` `SHA-256`
 - Scalable job aggregation platform with a hybrid semantic matching engine combining vector embeddings, cosine similarity, and keyword matching.
 - Integrated Adzuna API refreshes via **APScheduler** and **Redis caching** for low-latency search queries.
-- 🔗 [Live Demo](https://job-aggregator-roan.vercel.app/) | [Source Code](https://github.com/yash-076/job-aggregator)
+- [Live Demo](https://job-aggregator-roan.vercel.app/) | [Source Code](https://github.com/yash-076/job-aggregator)
 
-#### ⚡ [GoShort](https://github.com/yash-076/Url-shortner) — *High-Performance URL Shortener*
+#### [GoShort](https://github.com/yash-076/Url-shortner) — *High-Performance URL Shortener*
 `Golang` `REST APIs` `net/http` `JSON` `MD5 Hashing`
 - High-performance URL shortening service in Go using standard `net/http` package.
 - Fast MD5 hash-based short key generation with efficient in-memory URL routing and zero external dependencies.
-- 🔗 [Source Code](https://github.com/yash-076/Url-shortner)
+- [Source Code](https://github.com/yash-076/Url-shortner)
 
-#### 💬 [Pulse](https://github.com/yash-076/ChatApp) — *Low-Latency Real-Time Chat App*
+#### [Pulse](https://github.com/yash-076/ChatApp) — *Low-Latency Real-Time Chat App*
 `MongoDB` `Express.js` `React` `Node.js` `WebSockets` `TailwindCSS`
 - Full-stack real-time messaging application supporting concurrent users with event-driven WebSockets.
 - Low-latency message delivery, online presence tracking, and responsive chat UI.
-- 🔗 [Live Demo](https://chat-app-nine-azure-45.vercel.app/) | [Source Code](https://github.com/yash-076/ChatApp)
+- [Live Demo](https://chat-app-nine-azure-45.vercel.app/) | [Source Code](https://github.com/yash-076/ChatApp)
 
-#### 🎨 [Olive](https://github.com/yash-076/Olive) — *Product Showcase Landing UI*
+#### [Olive](https://github.com/yash-076/Olive) — *Product Showcase Landing UI*
 `React` `Vite` `Tailwind CSS` `Framer Motion`
 - Modern responsive product landing UI built with React + Vite, fluid Framer Motion animations, and pixel-accurate design layout.
-- 🔗 [Live Demo](https://olive-frontend-rho.vercel.app/) | [Source Code](https://github.com/yash-076/Olive)
+- [Live Demo](https://olive-frontend-rho.vercel.app/) | [Source Code](https://github.com/yash-076/Olive)
 
 ---
 
-### 📊 GitHub Analytics
+### GitHub Analytics
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-076&theme=tokyonight" height="165" alt="GitHub Stats" />
@@ -113,7 +113,7 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 
 ---
 
-### 🤝 Connect & Collaborate
+### Connect & Collaborate
 
 <div align="center">
   <a href="https://www.linkedin.com/in/yashrastogi11/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -124,5 +124,5 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 
 <br />
 <p align="center">
-  ✨ <i>Building systems that are fast, scalable, intuitive, and user-friendly.</i> ✨
+  <i>Building systems that are fast, scalable, intuitive, and user-friendly.</i>
 </p>
