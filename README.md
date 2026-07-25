@@ -41,7 +41,7 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 - 🏆 **IICPC 2026 Prelims**: Secured **AIR 2375** out of 13,000+ participants nationwide.
 - ⚡ **Flipkart GridLock 2.0**: Qualified for **Round 2** out of 109K+ submissions and 10K+ teams.
 - 🎓 **Reliance Foundation Scholar**: Selected among top 5,000 students nationwide from a competitive all-India pool.
-- 🎯 **JEE Advanced 2023**: AIR 17,423 | **JEE Main 2023**: AIR 27,318 (Top 2.5% out of 1.1M+ candidates).
+- 🎯 **JEE Advanced 2023**: AIR 17,423 | **JEE Main 2023**: AIR 27,318 (Top 2.4% out of 1.4M+ candidates).
 
 ---
 
