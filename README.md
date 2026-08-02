@@ -94,10 +94,10 @@ I am an **Information Technology student** at **HBTU Kanpur** with a deep intere
 
 ### GitHub Analytics
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yash-076&theme=tokyonight" height="165" alt="GitHub Stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yash-076&theme=tokyonight" height="165" alt="Top Languages" />
-</div>
+</div> -->
 
 <br />
 
